@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Searcher
+comment1.params=num
+comment1.target=Student\ linearSearch(int)
+comment1.text=\n\ Perform\ a\ Linear\ Search\n\ \n\ @param\ \ num\ \ \ a\ Student\ number\ to\ search\ for\n\ @return\ \ \ \ \ the\ Student\ object\ if\ found\ otherwise\ null\n
+comment2.params=num
+comment2.target=Student\ binarySearch(int)
+comment2.text=\n\ Perform\ a\ recursive\ binary\ Search\n\ \n\ @param\ \ num\ \ \ a\ Student\ number\ to\ search\ for\n\ @return\ \ \ \ \ the\ Student\ object\ if\ found\ otherwise\ null\n
+comment3.params=loIndex\ hiIndex\ find
+comment3.target=Student\ recursiveBinary(int,\ int,\ int)
+comment3.text=\n\ Private\ Helper\ for\ a\ recursive\ binary\ Search\n\ \n\ @param\ \ lowIndex\ The\ lowest\ possible\ Array\ element\ index\n\ \ \ \ \ \ \ \ \ \ \ \ \ that\ can\ hold\ the\ Student\ with\ the\ number\ 'find'\n\ @param\ \ hiIndex\ The\ highest\ possible\ Array\ element\ index\n\ \ \ \ \ \ \ \ \ \ \ \ \ that\ can\ hold\ the\ Student\ with\ the\ number\ 'find'\n\ @param\ \ find\ The\ student\ number\ being\ searched\ for\n\ @return\ \ \ \ \ the\ Student\ if\ found\ otherwise\ null\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ toString\n\ \n\ @return\ \ \ \ \ a\ String\ describing\ the\ number\ of\ comparisons\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ made\ in\ the\ most\ recent\ search\n
+numComments=5
